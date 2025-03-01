@@ -24,8 +24,10 @@ namespace ConsoleApp5
             Console.WriteLine();
             Journal journal1 = new Journal("Forbs", 2010, "descpription", "+38097....", "forbs@gmail.com");
             Console.WriteLine(journal1);
-
-
+            //Task 3
+            Console.WriteLine();
+            Web web1 = new Web("Site", "htps://www.site", "description", "100.200.300");
+            Console.WriteLine(web1);
         }
 
     }
