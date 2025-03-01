@@ -1,4 +1,4 @@
-﻿namespace ClassWork
+﻿namespace ConsoleApp5
 {
     internal class Journal
     {
