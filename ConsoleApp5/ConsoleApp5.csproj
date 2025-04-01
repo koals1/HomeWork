@@ -7,4 +7,16 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Struct\DecimalNumber.cs" />
+    <Compile Remove="Struct\RgbColor.cs" />
+    <Compile Remove="Struct\Vector.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Struct\DecimalNumber.cs" />
+    <None Include="Struct\RgbColor.cs" />
+    <None Include="Struct\Vector.cs" />
+  </ItemGroup>
+
 </Project>
