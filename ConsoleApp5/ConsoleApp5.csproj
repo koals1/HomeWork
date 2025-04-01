@@ -10,6 +10,7 @@
   <ItemGroup>
     <Compile Remove="Delegates\GeometryUtils.cs" />
     <Compile Remove="Delegates\NumberFilter.cs" />
+    <Compile Remove="Events\CreditCard.cs" />
     <Compile Remove="Struct\DecimalNumber.cs" />
     <Compile Remove="Struct\RgbColor.cs" />
     <Compile Remove="Struct\Vector.cs" />
@@ -18,6 +19,7 @@
   <ItemGroup>
     <None Include="Delegates\GeometryUtils.cs" />
     <None Include="Delegates\NumberFilter.cs" />
+    <None Include="Events\CreditCard.cs" />
     <None Include="Struct\DecimalNumber.cs" />
     <None Include="Struct\RgbColor.cs" />
     <None Include="Struct\Vector.cs" />
